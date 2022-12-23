@@ -1,0 +1,43 @@
+Somtum
+
+S1 Tum Poo-Plara                                              40 THB
+S2 Tum Thai                                                   40 THB
+S3 Tum Thai Kai Kem                                           50 THB
+S4 Tum Khawphod                                               50 THB
+S5 Tum Sua                                                    50 THB
+--------------------------------------------------------------------
+Larb/Spicy Salad
+
+L1 Larb Moo                                                   50 THB
+L2 Larb Ped                                                   55 THB
+L3 Larb Kap Moo                                               60 THB
+L4 Nam Tok Moo                                                60 THB
+--------------------------------------------------------------------
+Soup
+
+C1 Soup Nor Mai                                               40 THB
+C2 Gaeng Om                                                   50 THB
+C3 Super Peek Gai                                             60 THB
+C4 Tom Saap Kra Dook Aon                                      60 THB
+--------------------------------------------------------------------
+Grilled
+
+G1 Kor Moo Yang                                               60 THB
+G2 Grilled Chicken                                            35 THB
+G3 Grilled Catfish                                            40 THB
+--------------------------------------------------------------------
+Others
+
+O1 Kanom Jeen                                                 10 THB
+O2 Sticky Rice                                                10 THB
+O3 Steamed Rice                                               10 THB
+O4 Kap Moo                                                    10 THB
+--------------------------------------------------------------------
+Drinks
+
+D1 Ice							       9 THB
+D2 Water                                                      15 THB
+D3 Coke                                                       25 THB
+D4 Pepsi                                                      25 THB
+D5 Est                                                        25 THB
+--------------------------------------------------------------------
